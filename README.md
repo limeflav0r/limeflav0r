@@ -2,8 +2,8 @@
 
 
 ### investigation of out-of-distribution detection across various models and training methodologies
-### https://www.sciencedirect.com/science/article/pii/S0893608024002120
-<!--
+### ['link'](https://www.sciencedirect.com/science/article/pii/S0893608024002120)
+
 **limeflav0r/limeflav0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
